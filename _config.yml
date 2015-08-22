@@ -67,6 +67,7 @@ theme: landscape
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
-repo: git@github.com:zhangxinyutop/zhangxinyutop.github.io.git
-type: github
-branch: master
+deploy:
+ repo: git@github.com:zhangxinyutop/zhangxinyutop.github.io.git
+ type: git
+ branch: master
