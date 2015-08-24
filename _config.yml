@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 张新宇
-subtitle:
-description:
+title: 清风识字
+subtitle: 码农，程序猿
+description: 清风要识字，没事翻翻书 | java | javscript | scala
 author: 张新宇
-language:
-timezone:
+language: zh-CN
+email: zhangxinyutop@163.com
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -67,6 +67,7 @@ theme: landscape
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
-deploy: git@github.com:zhangxinyutop/zhangxinyutop.github.io.git
-type: git
-branch: master
+deploy:
+ repo: git@github.com:zhangxinyutop/zhangxinyutop.github.io.git
+ type: git
+ branch: master
