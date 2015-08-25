@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="daa460f2-1dc9-4862-aa21-8bea34d0e1f9" name="Default" comment="" />
+    <list default="true" id="daa460f2-1dc9-4862-aa21-8bea34d0e1f9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2015/08/24/hello-world/index.html" afterPath="$PROJECT_DIR$/2015/08/24/hello-world/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2085/01/16/test-hexo-create-article/index.html" afterPath="$PROJECT_DIR$/2085/01/16/test-hexo-create-article/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/index.html" afterPath="$PROJECT_DIR$/archives/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2015/index.html" afterPath="$PROJECT_DIR$/archives/2015/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2015/08/index.html" afterPath="$PROJECT_DIR$/archives/2015/08/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2085/index.html" afterPath="$PROJECT_DIR$/archives/2085/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2085/01/index.html" afterPath="$PROJECT_DIR$/archives/2085/01/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/测试/index.html" afterPath="$PROJECT_DIR$/categories/测试/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/hexo/index.html" afterPath="$PROJECT_DIR$/tags/hexo/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/ttt/index.html" afterPath="$PROJECT_DIR$/tags/ttt/index.html" />
+    </list>
     <ignored path="my-blog.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
